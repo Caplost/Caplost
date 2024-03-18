@@ -67,6 +67,11 @@
 ![gin](https://img.shields.io/badge/gin-000?&logo=gin&logoColor=FFF)
 ![plasmo](https://img.shields.io/badge/plasmo-000?&logo=plasmo&logoColor=FFF)
 
+<!--<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=caplost&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caplost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+</div>-->
+
 **Social Media**
 
 <p align="left"><a href="https://twitter.com/capscottneng"><img src="https://img.shields.io/badge/-Twitter-000?logo=twitter" alt="Blog"></a>
