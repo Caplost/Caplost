@@ -4,18 +4,15 @@
 ![Senior](https://img.shields.io/badge/Senior:-red)
 ![Golang](https://img.shields.io/badge/Golang-000?style=flat&logo=go&label=)
 ![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&label=)
+![TypeScript](https://img.shields.io/badge/TypeSript-000?style=flat&logo=TypeScript&label=)
+![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
 
 ![Proficient](https://img.shields.io/badge/Proficient:-blue)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&label=)
 ![JavaScript](https://img.shields.io/badge/JavaSript-000?style=flat&logo=JavaScript&label=)
-![TypeScript](https://img.shields.io/badge/TypeSript-000?style=flat&logo=TypeScript&label=)
-![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
 
-![Intermediate](https://img.shields.io/badge/Intermediate:-green)
-![Java](https://img.shields.io/badge/Java-000?style=flat&logo=java)
-![C++](https://img.shields.io/badge/C++-000?style=flat&logo=C++)
 
-![Basic](https://img.shields.io/badge/Basic:-yellow)
+![learning](https://img.shields.io/badge/Basic:-yellow)
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=Rust&label=new)
 
 **Skill**
