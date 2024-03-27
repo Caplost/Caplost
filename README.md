@@ -72,8 +72,9 @@
 <a href="https://github.com/Caplost"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caplost&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caplost)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caplost&show_icons=true&theme=radical&&cache_bust=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caplost&cache_bust=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Caplost&cache_bust=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
   
