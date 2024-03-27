@@ -72,10 +72,10 @@
 <a href="https://github.com/Caplost"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caplost&year_range=2023-01-01..2024-12-31)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caplost&count_private=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caplost&cache_bust=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caplost&cache_bust=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
  
   
