@@ -72,7 +72,7 @@
 <a href="https://github.com/Caplost"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caplost&show_icons=true&theme=radical)
 
  
   
