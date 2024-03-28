@@ -71,11 +71,4 @@
 <p align="left"><a href="https://twitter.com/capscottneng"><img src="https://img.shields.io/badge/-Twitter-000?logo=twitter" alt="Blog"></a>
 <a href="https://github.com/Caplost"><img src="https://img.shields.io/badge/-GitHub-000?logo=GitHub" alt="GitHub"></a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caplost&count_private=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caplost&cache_bust=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
- 
   
