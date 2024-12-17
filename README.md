@@ -5,7 +5,6 @@
 ![Golang](https://img.shields.io/badge/Golang-000?style=flat&logo=go&label=)
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=flat&logo=Solidity&label=)
 ![React](https://img.shields.io/badge/React-000?&logo=React&labelColor=000)
-![PHP](https://img.shields.io/badge/PHP-000?style=flat&logo=php&label=)
 
 ![Proficient](https://img.shields.io/badge/Proficient:-blue)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&label=)
